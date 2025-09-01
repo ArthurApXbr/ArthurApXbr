@@ -10,7 +10,7 @@
   <a href="mailto:arthurapcraft2@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-informational?style=for-the-badge&logo=gmail" alt="Email Badge">
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/arthur-aparecido-573558314/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
   </a>
   <a href="https://seusite.dev">
@@ -23,8 +23,7 @@
 
 ## Sobre mim
 - 🔭 Atualmente estudando em: **Instituto Proa e ensino medio**
-- 🌱 Estudando: **Tecnologias** (ex.: HTML, CSS, Javacript)
-- 💬 Pergunte-me sobre: **JavaScript, APIs REST, boas práticas**
+- 🌱 Estudando: **Tecnologias** (ex.: HTML, CSS, JavaScript)
 - 🎯 Objetivo: **Contribuir com projetos e construir produtos úteis**
 
 ---
