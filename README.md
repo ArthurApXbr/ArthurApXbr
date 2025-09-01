@@ -72,22 +72,3 @@ Use <img> para controlar tamanho e alinhar com tabelas.
 </table>
 
 ---
-
-## Destaques
-
-- 🚀 **Nome do Projeto** — breve descrição do que faz e por que é legal.
-- 🧩 **Biblioteca/Plugin** — o que resolve, link para repo.
-- 🛠 **Snippet** favorito:
-```js
-// Exemplo: Hook para buscar dados com cache simples
-import { useEffect, useState } from "react";
-
-export function useFetch(url) {
-  const [data, setData] = useState(null);
-  useEffect(() => {
-    let mounted = true;
-    fetch(url).then(r => r.json()).then(d => mounted && setData(d));
-    return () => { mounted = false; };
-  }, [url]);
-  return data;
-}
