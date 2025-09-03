@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Banner (opcional) -->
-  <img src="assets/banner.png" alt="Banner do perfil" width="100%" />
-
   <h1>Olá, eu sou <strong>Arthur Aparecido dos santos custódio</strong> 👋</h1>
   <p>Desenvolvedor • Web •</p>
 
@@ -37,6 +34,7 @@
 
 <!-- Ícones do Devicon (carregados via CDN) -->
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" />
 </p>
